@@ -1,2 +1,11 @@
-# Dogo.GG
-DOGO.GG é um aplicativo desktop de análise de estatísticas para League of Legends, focado em ajudar jogadores a entenderem seu desempenho e melhorarem através de dados detalhados e visualizações claras.
+   <!DOCTYPE html>
+   <html>
+   <head>
+       <title>DOGO.GG - Em Desenvolvimento</title>
+   </head>
+   <body>
+       <h1>DOGO.GG</h1>
+       <p>Aplicativo de análise de estatísticas para League of Legends</p>
+       <p>Em desenvolvimento</p>
+   </body>
+   </html>
